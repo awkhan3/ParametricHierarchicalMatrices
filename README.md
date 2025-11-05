@@ -15,4 +15,9 @@ The Python code requires the following packages to generate the tables.
 To use these codes in your research, please see the [License](LICENSE). 
 
 # Usage
-To run all of the experiments, simply clone this directory,  then run the command 'python3 run_test.py'.
+To run all of the experiments:
+1. clone directory,
+1. delete the files in the Logs directory, and 
+2. run the command "python3 run_test.py".
+
+
