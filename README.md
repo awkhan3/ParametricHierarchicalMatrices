@@ -14,7 +14,7 @@ The Python code requires the following packages to generate the tables.
 4. Teneva
 
 ## License
-To use these codes in your research, please see the [License](LICENSE). If you find our code useful, please consider citing our paper.
+To use these codes in your research, please see the [License](LICENSE). If you find our code useful, then please consider citing our paper.
 
 # Usage
 To run all of the numerical experiments, perform the following steps.
