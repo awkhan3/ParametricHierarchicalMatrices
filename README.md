@@ -1,5 +1,7 @@
 # Parametric Hierarchical Matrix Approximations to Kernel Matrices
 This repository contains Python code for computing parametric hiearchical matrix approximations to kernel matrices. It accompanies the paper
+> Khan, A., Chen, C., Rao, V., & Saibaba, A. K. (2025). *Parametric hierarchical matrix approximations to kernel matrices.* [arXiv preprint](https://arxiv.org/abs/2511.03109).
+
 
 
 The results  in the [folder](https://github.com/awkhan3/ParametricHierarchicalMatrices/tree/master/Logs) were generated on a computer with an Intel Xenon w9-3575X processor and 258GB of RAM.
@@ -12,7 +14,7 @@ The Python code requires the following packages to generate the tables.
 4. Teneva
 
 ## License
-To use these codes in your research, please see the [License](LICENSE). 
+To use these codes in your research, please see the [License](LICENSE). If you find our code useful, please consider citing our paper.
 
 # Usage
 To run all of the numerical experiments, perform the following steps.
