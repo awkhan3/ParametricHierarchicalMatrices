@@ -22,6 +22,9 @@ To run all of the numerical experiments, perform the following steps.
 1. Delete the files in the Logs directory. 
 2. Run the command "python3 run_test.py".
 
+# Tutorial
+The [demo script](https://github.com/awkhan3/ParametricHierarchicalMatrices/blob/master/demo.py) provides a brief tutorial that explains how to use the classes in this repository. 
+
 
 ## Funding
 This work was supported in part by the National Science Foundation and the Department of Energy through the awards DMS-1745654, DMS-1845406, DMS-2411198, DE-SC0025262, and DE-AC02-06CH11357.
